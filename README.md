@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alexis Escutia
-- 👀 I’m interested in UI Design, Full Stack Devlopment, and Mobile App Devlopment
-- 🌱 I’m currently learning Cross-Platform Development using Flutter
-- 💞️ I’m looking to collaborate on projects centered on Mobile App Development
+- 👀 I’m interested in UI Design, Full Stack development, and Mobile App Development
+- 🌱 I’m currently searching for Entry Level Software Engineering Positions
 - 📫 How to reach me: https://www.linkedin.com/in/alexis-escutia/
 
 <!---
